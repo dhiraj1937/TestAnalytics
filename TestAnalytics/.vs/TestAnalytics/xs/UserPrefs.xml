@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E707A2D6-0A18-446A-A8D2-1DF469B2B931}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestAnalytics/App.xaml.cs">
+    <Files>
+      <File FileName="TestAnalytics/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="TestAnalytics/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="TestAnalytics/App.xaml.cs" Line="6" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestAnalytics" expanded="True">
+            <Node name="TestAnalytics" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestAnalytics.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.TestAnalytics.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.18ED8D28-D1BB-408C-8A81-203DCC7F098F" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
